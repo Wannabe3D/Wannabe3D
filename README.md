@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm Mikhail</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Cyber Security Student 4/4 and Programmer</h3>
 <!--
 **Wannabe3D/Wannabe3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
