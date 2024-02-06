@@ -7,5 +7,5 @@
   <li>C#🤓</li>
   <li>Python🤠</li>
   <li>Golang</li>
-  <li>PhP</li>
+  <li>PHP</li>
 </ul>
