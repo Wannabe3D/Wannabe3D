@@ -6,4 +6,6 @@
   <li>C++🤕</li>
   <li>C#🤓</li>
   <li>Python🤠</li>
+  <li>Golang</li>
+  <li>PhP</li>
 </ul>
