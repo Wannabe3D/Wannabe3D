@@ -1,7 +1,8 @@
 <h1 align="center">Hello World, I'm Mikhail✨</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Russian Cyber Security Student 4/4 and Programmer</h3>
-<h4>My stack:</h4>
+<label>My stack:</label>
+<hr>
 <div id="badges">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -22,3 +23,4 @@
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">  
 </div>
+<hr>
