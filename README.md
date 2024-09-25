@@ -4,7 +4,7 @@
 <h4>Im learning programming languages:</h4>
 <ul>
   <li>C++🤕</li>
-  <li>C#🤓</li>
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   <li>Python🤠</li>
   <li>Golang</li>
   <li>PHP</li>
